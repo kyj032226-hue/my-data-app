@@ -1,1 +1,4 @@
-# my-data-app
+streamlit
+requests 
+pandas
+pytz
